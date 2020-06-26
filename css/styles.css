@@ -19,3 +19,9 @@
 /* p span {
     color: darkgreen;
 } */
+
+/* Selector de Clase*/
+
+h3.importante{
+    color: darkolivegreen;
+}
