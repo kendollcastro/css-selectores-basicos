@@ -22,6 +22,10 @@
 
 /* Selector de Clase*/
 
-h3.importante{
+/* h3.importante{
+    color: darkolivegreen;
+} */
+
+p.importante {
     color: darkolivegreen;
 }
